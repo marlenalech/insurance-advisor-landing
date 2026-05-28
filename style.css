@@ -381,7 +381,7 @@ h2.section-title.on-dark em { color: var(--gold-lt); }
   color: var(--text-soft); margin-bottom: 6px;
 }
 .contact-item-value {
-  font-family: var(--sans); font-size: 22px;
+  font-family: var(--sans); font-size: 15px;
   font-weight: 400; color: var(--text);
 }
 
